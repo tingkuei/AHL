@@ -8,5 +8,5 @@ How to use the code
 
 3. Run 'python train_and_valid.py ' for the final tinueing of the network. 
    The test accurancy will be converged at 54.50%. 
-4.We will release the final trained model soon 
+4.We will release the final trained model soon.
 
